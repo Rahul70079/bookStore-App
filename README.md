@@ -28,17 +28,25 @@ Tools & Libraries: Axios, JWT, Nodemon, bcrypt, dotenv
 
 bookStoreApp/
 │
+
 ├── Backend/
+
 │   ├── index.js
+
 │   ├── models/
+
 │   ├── routes/
+
 │   └── controllers/
 │
 ├── Frontend/
+
 │   ├── src/
+
 │   ├── components/
+
 │   └── pages/
-│
+
 └── README.md
 
 ⚙️ Installation & Setup
