@@ -38,7 +38,7 @@ bookStoreApp/
 │   ├── routes/
 
 │   └── controllers/
-│
+
 ├── Frontend/
 
 │   ├── src/
