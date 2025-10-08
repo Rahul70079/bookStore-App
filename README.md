@@ -1,6 +1,5 @@
 
 📚 BookStore App
-
 A full-stack BookStore web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
 It allows users to browse, search, and manage books, while providing admin features for inventory and order management.
 
