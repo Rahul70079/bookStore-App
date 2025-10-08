@@ -57,33 +57,44 @@ bookStoreApp/
 Clone the repository
 
 git clone https://github.com/Rahul70079/bookStore-App
+
 cd bookStoreApp
 
 
 Install dependencies
 
 cd Backend
+
 npm install
+
 cd ../Frontend
+
 npm install
 
 
 Set environment variables
+
 Create a .env file inside the Backend folder:
 
 PORT=5000
+
 MONGO_URI=your_mongodb_connection_string
+
 JWT_SECRET=your_secret_key
 
 
 Run the app
 
 # Start backend
+
 cd Backend
+
 npm run dev
 
 # Start frontend
+
 cd ../Frontend
+
 npm run dev
 
 🧠 Future Enhancements
