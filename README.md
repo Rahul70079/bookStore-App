@@ -20,8 +20,11 @@ It allows users to browse, search, and manage books, while providing admin featu
 🏗️ Tech Stack
 
 Frontend: React.js, Vite, Tailwind CSS
+
 Backend: Node.js, Express.js
-Database: MongoDB (Mongoose ORM)
+
+Database: MongoDB (Mongoose ORM
+
 Tools & Libraries: Axios, JWT, Nodemon, bcrypt, dotenv
 
 📁 Project Structure
