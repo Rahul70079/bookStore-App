@@ -5,7 +5,9 @@ A full-stack BookStore web application built using the MERN (MongoDB, Express.js
 It allows users to browse, search, and manage books, while providing admin features for inventory and order management.
             
               
+<img width="1907" height="1018" alt="Screenshot 2025-10-08 230157" src="https://github.com/user-attachments/assets/56d8ada2-0ba3-4562-8f0c-acee1b78b7c2" />                
 ![Uploading Screenshot 2025-10-08 230157.png…]()
+
 
 
 🚀 Features
